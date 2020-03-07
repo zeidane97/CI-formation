@@ -1,6 +1,7 @@
 #  Continuous Integration
 
-[![Build Status](http://ec2-54-227-106-160.compute-1.amazonaws.com/buildStatus/icon?job=Battleboats-ContinuousIntegration-master)](http://ec2-54-227-106-160.compute-1.amazonaws.com/job/Battleboats-ContinuousIntegration-master/)
+#[![Build Status](http://ec2-54-227-106-160.compute-1.amazonaws.com/buildStatus/icon?job=Battleboats-ContinuousIntegration-master)](http://ec2-54-227-106-160.compute-1.amazonaws.com/job/Battleboats-ContinuousIntegration-master/)
+[![Build Status](http://87.89.130.100:4433//job/project-CI-dev/badge/icon)](http://87.89.130.100:4433//job/project-CI-dev/)
 
 ## Project description
 
