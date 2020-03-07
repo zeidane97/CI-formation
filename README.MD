@@ -17,3 +17,4 @@ EXTERNAL_HOSTNAME=`curl http://169.254.169.254/latest/meta-data/public-hostname`
 && if [[ $(curl -s -o /dev/null -w "%{http_code}" $EXTERNAL_HOSTNAME':8181/health') == 200 ]];\
 then echo "Application déployée"; exit 0; else echo "Application injoignable"; exit 1; fi
 ```
+#ok
